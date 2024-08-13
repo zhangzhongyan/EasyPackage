@@ -59,7 +59,7 @@ def upload_to_pgyer(ipa_path, api_key, user_key):
 
 if __name__ == "__main__":
     # 替换为你的 .app 文件路径
-    app_file_path = '/Users/zhangzhongyan/Library/Developer/Xcode/DerivedData/EVCRMAppStaff-asytlrwezpccxhbyxnqnfiznmykp/Build/Products/Debug-iphoneos/EVCRMAppStaff.app'
+    app_file_path = '/Users/zhangzhongyan/Library/Developer/Xcode/DerivedData/Fargo-fbvqwegpsgdlafcydsvfrzlbahtd/Build/Products/Debug-iphoneos/Fargo.app'
     
     # 替换为你的蒲公英 API Key 和 User Key
     api_key = 'fc870539ca92797712cc0ac863fb30ac'
