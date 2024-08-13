@@ -59,11 +59,11 @@ def upload_to_pgyer(ipa_path, api_key, user_key):
 
 if __name__ == "__main__":
     # 替换为你的 .app 文件路径
-    app_file_path = '/path/to/your/app_file.app'
+    app_file_path = '/Users/zhangzhongyan/Library/Developer/Xcode/DerivedData/EVCRMAppStaff-asytlrwezpccxhbyxnqnfiznmykp/Build/Products/Debug-iphoneos/EVCRMAppStaff.app'
     
     # 替换为你的蒲公英 API Key 和 User Key
-    api_key = 'your_pgyer_api_key'
-    user_key = 'your_pgyer_user_key'
+    api_key = 'fc870539ca92797712cc0ac863fb30ac'
+    user_key = '56ee6b6db5c5655c5902d6f9bdfae9be'
     
     # 执行打包操作
     ipa_file = package_app(app_file_path)
